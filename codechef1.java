@@ -1,5 +1,5 @@
 import java.util.*;
-class Main  //ATM machine
+class Main  // problem ATM machine
 {
 	public static void main (String args[]) 
 	{
