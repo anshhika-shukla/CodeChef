@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Codechef2        //problem Easy Pronunciation
+class Codechef2        //Problem Easy Pronunciation
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
