@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef4         //problem Encoding Message
+class codechef4         //Problem Encoding Message
 {
     public static void main(String args[]) 
     {
