@@ -1,0 +1,26 @@
+import java.util.*;
+class codechef4         //problem Encoding Message
+{
+    public static void main(String args[]) 
+    {
+        Scanner sc=new Scanner(System.in);    
+        int t=sc.nextInt();   
+        while(t-->0) 
+        {
+            int n=sc.nextInt();
+            String s=sc.next();
+            char ch[]=s.toCharArray();    
+            for(int i=0;i<n-1;i+=2) 
+            {
+                char temp=ch[i];
+                ch[i]=ch[i+1];
+                ch[i+1]=temp;
+            }
+            for(int i=0;i<n;i++) 
+            {
+                ch[i]=(char)('z'-(ch[i]-'a'));
+            }
+            System.out.println(new String(ch));
+        }
+    }
+}
