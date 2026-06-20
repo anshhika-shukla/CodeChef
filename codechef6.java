@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-class codechef6         //Greater Average
+class codechef6         // problem-Greater Average
 {
     public static void main(String args[])
     {
