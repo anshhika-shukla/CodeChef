@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef7         //Bear and Candies 123
+class codechef7         // problem-Bear and Candies 123
 {
     public static void main(String args[])
     {
