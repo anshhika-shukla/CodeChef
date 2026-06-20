@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef5         //Subscriptions
+class codechef5         // problem-Subscriptions
 {
     public static void main(String args[])
     {
