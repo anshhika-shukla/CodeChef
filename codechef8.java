@@ -1,5 +1,5 @@
 import java.util.*;
-public class codechef8      //problem-Chef in his Office
+public class codechef8      //Problem-Chef in his Office
 {
     public static void main(String args[])
     {
