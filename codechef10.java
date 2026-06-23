@@ -1,5 +1,5 @@
 import java.util.*;
-class Main      //problem - Water Filling
+class Main      //Problem - Water Filling
 {
     public static void main(String args[]) 
     {
