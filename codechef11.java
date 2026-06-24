@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef11    //problem-Carrot Collection
+class codechef11    //Problem-Carrot Collection
 {
     public static void main(String anshika[]) 
     {
