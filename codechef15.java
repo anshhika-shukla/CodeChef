@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef15   //problem-Teleport Home
+class codechef15   //Problem-Teleport Home
 {
     public static void main(String anshika[])
     {
