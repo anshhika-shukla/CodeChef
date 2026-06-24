@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef13     //problem-Elections in Chefland
+class codechef13     //Problem-Elections in Chefland
 {
     public static void main(String args[])
     {
