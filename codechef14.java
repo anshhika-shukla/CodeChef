@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef14    //problem-Sale Season
+class codechef14    //Problem-Sale Season
 {
     public static void main(String args[])
     {
