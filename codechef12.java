@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef12    //problem-Passing Chain
+class codechef12    //Problem-Passing Chain
 {
     public static void main(String anshika[]) 
     {
