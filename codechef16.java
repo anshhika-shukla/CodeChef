@@ -1,18 +1,17 @@
-// Once I am done , I will be gone , You won't see me for a while.
-
 import java.util.*;
 public class codechef16
 {
-    public static void main(String args[])
+    public static void main(String args[])                         // Problem Minimum Pizzas
     {
-        Scanner sc=new Scanner(System.in);
-        int T=sc.nextInt();
-        while(T-->0)
+        Scanner sc=new Scanner(System.in);    
+        int t=sc.nextInt();      
+        while(t-->0) 
         {
-            int X=sc.nextInt();
-            int Y=sc.nextInt();
-            int P=X*Y;
-            System.out.println(P/100);
+            int n=sc.nextInt();
+            int x=sc.nextInt();    
+            int totalSlices=n*x;
+            int pizzas=(totalSlices+3)/4;
+            System.out.println(pizzas);
         }
     }
 }
