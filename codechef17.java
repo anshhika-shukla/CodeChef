@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef17   //problem-Chefland Games
+class codechef17   //Problem-Chefland Games
 {
     public static void main(String args[]) 
     {
