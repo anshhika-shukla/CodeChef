@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef18    //problem Expert Setter
+class codechef18    //Problem Expert Setter
 {
     public static void main(String args[]) 
     {
