@@ -6,7 +6,7 @@
 //  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
 
 import java.util.*;
-class codechef20   //problem Chef and NextGen
+class codechef20   //Problem Chef and NextGen
 {
     public static void main(String args[]) 
     {
