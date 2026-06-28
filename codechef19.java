@@ -6,7 +6,7 @@
 //  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
 
 import java.util.*;
-class codechef19   //problem Chef and Two Strings
+class codechef19   //Problem Chef and Two Strings
 {
     public static void main(String args[]) 
     {
