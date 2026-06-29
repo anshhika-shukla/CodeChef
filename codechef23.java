@@ -1,5 +1,5 @@
 import java.util.*;
-public class codechef23  //problem CodeChef XP
+public class codechef23  //Problem CodeChef XP
 {
     public static void main(String args[]) 
     {
