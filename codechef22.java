@@ -1,5 +1,5 @@
 import java.util.*;
-public class codechef22  //problem Leader of an Array
+public class codechef22  //Problem Leader of an Array
 {
     public static void main(String args[]) 
     {
