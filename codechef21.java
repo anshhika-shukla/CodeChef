@@ -1,5 +1,5 @@
 import java.util.*;
-class codechef21  //Problem Least Common Anagram
+class codechef21  // Problem Least Common Anagram
 {
     public static void main(String args[]) 
     {
