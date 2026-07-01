@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-class codechef25   //problem The Three Topics
+class codechef25   //Problem The Three Topics
 {
     public static void main(String args[]) 
     {
